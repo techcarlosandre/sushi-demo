@@ -7,7 +7,9 @@ Sistema ERP e PDV (Ponto de Venda) completo para restaurantes de culinária japo
 > **Nota:** O código-fonte deste projeto é proprietário e mantido de forma privada. Esta página serve como vitrine técnica, demonstração de arquitetura e usabilidade.
 
 *   🌐 **Acesse a aplicação rodando:** [Clique aqui para acessar o Deploy Ativo](https://projetos.techcarlos.com.br/sushi)
-*   🎥 **Vídeo de Demonstração (Walkthrough):** [Assista ao funcionamento na prática](https://github.com/techcarlosandre/portfolio-carlos/raw/main/public/sushi/sushi-app_opt.mp4)
+*   🎥 **Vídeo de Demonstração (Walkthrough):**
+    
+    <video src="https://github.com/techcarlosandre/sushi-demo/raw/main/public/sushi-app.webm" width="100%" controls></video>
 
 ---
 
